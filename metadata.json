@@ -1,0 +1,6 @@
+{
+  "name": "Star Hopper",
+  "description": "A light, friendly mini space arcade game where you fly, dodge asteroids, collect stars and fuel cells, and blast rocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
